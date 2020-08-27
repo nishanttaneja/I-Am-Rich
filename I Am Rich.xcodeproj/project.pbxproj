@@ -24,6 +24,8 @@
 		B42E128524F819C800096414 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B42E128824F819C800096414 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B42E128A24F819C800096414 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B42E12B224F8255D00096414 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B42E12B324F8258000096414 /* HomeScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeScreen.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,8 @@
 		B42E127024F819C600096414 = {
 			isa = PBXGroup;
 			children = (
+				B42E12B224F8255D00096414 /* README.md */,
+				B42E12B324F8258000096414 /* HomeScreen.png */,
 				B42E127B24F819C600096414 /* I Am Rich */,
 				B42E127A24F819C600096414 /* Products */,
 			);
